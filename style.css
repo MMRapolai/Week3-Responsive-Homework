@@ -54,6 +54,18 @@ p {
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
 }
+.yoga {
+  background: var(--primary-color);
+  box-shadow: var(--box-shadow);
+  color: white;}
+.weather {
+  background: var(--primary-color);
+  box-shadow: var(--box-shadow);
+  color: white;}
+.yogurt {
+  background: var(--primary-color);
+  box-shadow: var(--box-shadow);
+  color: white;}
 
 .homepage-link {
   color: var(--primary-color);
